@@ -3,4 +3,3 @@ def add(a, b):
 
 
 print(add(5, 10))
-print("new sonar run")
